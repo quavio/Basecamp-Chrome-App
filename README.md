@@ -1,4 +1,4 @@
-<p>Do you like to use Google Chrome's dashboard as you desktop? ME TOO :)</p>
+<p>Do you like to use Google Chrome's dashboard as your desktop? <strong>ME TOO</strong> :)</p>
 <p>This project gives you all the files needed to make 37signals's product accessible from Chrome's dash.</p>
 
 <h2>INSTALLATION:</h2>
