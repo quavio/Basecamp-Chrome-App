@@ -1,0 +1,14 @@
+{
+  "name": "Basecamp",
+    "version": "1.0",
+    "icons": { "24": "24.png", "128": "128.png" },
+    "description": "Trusted by millions, Basecamp is the leading web-based project management and collaboration tool.", 
+    "app": {
+      "urls": [
+        "https://launchpad.37signals.com/basecamp/signin"
+        ],
+      "launch": {
+        "web_url": "https://launchpad.37signals.com/basecamp/signin"
+      }
+    }
+}
