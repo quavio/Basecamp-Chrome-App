@@ -1,4 +1,5 @@
 {
+  "manifest_version": 2,
   "name": "Basecamp",
     "version": "1.0",
     "icons": { "24": "24.png", "128": "128.png" },
